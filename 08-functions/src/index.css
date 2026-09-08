@@ -1,0 +1,22 @@
+div{
+  width: 500px;
+  height: 400px;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1{
+  width: 150px;
+  padding: 30px;
+  height: 100px;
+
+}
+
+button{
+  width: 100px;
+  height: 30px;
+  margin: 40px;
+}
