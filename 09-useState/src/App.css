@@ -1,0 +1,16 @@
+.mydiv {
+  background-color: navy;
+  color: aliceblue;
+  width: 500px;
+}
+
+h1{
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+}
+
+button{
+  width: 25%;
+  margin: 20px;
+}
