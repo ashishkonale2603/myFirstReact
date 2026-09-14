@@ -18,7 +18,7 @@ const App = () => {
       }}>
         <input type="text" 
         placeholder='Enter your name' 
-        value={FirstName}
+        value={FirstName} 
         onChange={(e)=>{
           setFirstName(e.target.value)
         }} />
